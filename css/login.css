@@ -1,0 +1,52 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form{
+    width: 320px;
+    margin: auto;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom:20px ;
+
+}
+
+h1{
+    text-align: center;
+    color:white;
+}
+
+a{
+    color: white;
+    
+}
+
+
+input{
+    margin-bottom: 30px;
+    padding-top: 5px;
+    padding-bottom:5px ;
+    color: white;
+    margin-left: 25px;
+    padding-right: 95px;
+
+}
+
+.bottun{
+    margin-bottom: 5px;
+    color: black;
+    background-color: #29E1EF;
+    border: solid;
+    padding-left: 116px;
+    padding-right: 116px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+
+
+}
+
+.bottomInfor{
+    display:grid;
+    grid-template-columns: 200px 300px;
+    margin-left:25px ;
+}
